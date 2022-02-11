@@ -1,0 +1,6 @@
+
+
+# Dynamics of gut microbiome – mediated bile acid metabolism in progression to islet autoimmunity #
+
+ABSTRACT
+Previous studies suggest that the human gut microbiome is dysregulated in islet autoimmunity, preceding the clinical onset of type 1 diabetes (T1D). Gut microbiota plays an important role in the regulation of bile acid (BA) metabolism. However, not much is known about the regulation of BAs during progression to T1D. Here, we analyzed BAs in a longitudinal series of serum and stool samples collected at 3, 6, 12, 18, 24 and 36 months of age, from children who developed a single islet autoantibody (P1Ab; n=23), multiple islet autoantibodies (P2Ab; n=13), and controls (CTRs; n=38) who remained autoantibody (AAb) negative during the follow-up. In addition, we analyzed the stool microbiome by shotgun metagenomics in a subgroup of these children. Factor analysis showed that age had the strongest impact on BA and microbiome profiles. We found that, at an early age, the systemic BAs (including taurine and glycine conjugates) and microbial secondary BA pathways were altered in the P2Ab group as compared to the P1Ab or CTR groups. Our findings thus suggest that dysregulated BA metabolism in early life contributes to the risk and pathogenesis of T1D.
